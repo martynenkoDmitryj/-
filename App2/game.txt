@@ -1,0 +1,258 @@
+{
+	"Name": "Проверь себя",
+	"Children": [
+		{
+			"Question": "Водил ли я машину в нетрезвом состоянии? (12.8 КоАП РФ)",
+			"PunishMin": [ 
+				{
+				    "IsGood": "yes",
+					"Type": "driveout",
+					"Penalty": 18,
+				},
+				{
+					"IsGood": "yes",
+					"Type": "many",
+					"Penalty": 30000,
+				}
+			],
+			"PunishMax": [
+				{
+					"IsGood": "no",
+					"Type": "driveout",
+					"Penalty": 24,
+				},
+				{
+					"IsGood": "no",
+					"Type": "many",
+					"Penalty": 30000,
+				}
+			],
+			"SoundPathFinish" : "Sounds/1_end.mp3",
+			"Akun" : "Content/akun/1.html"
+		},
+		{
+			"Question": "Уклонялся ли я от уплаты налогов? (198 УК РФ)",
+			"PunishMin": [
+				{
+					"IsGood": "yes",
+					"Type": "many",
+					"Penalty": 100000,
+				}
+			],
+			"PunishMax": [
+				{
+					"IsGood": "no",
+					"Type": "jail",
+					"Penalty": 36,
+				}
+			],
+			"SoundPathYes" : "Sounds/2_yes.wav",
+			"Akun" : "Content/akun/2.html"
+		},
+		{
+			"Question": "Дрался ли я за даму с нанесением телесных повреждений обидчику? (115, 116 УКРФ)",
+			"PunishMin": [
+				{
+					"IsGood": "yes",
+					"Type": "many",
+					"Penalty": 5000,
+				}
+			],
+			"PunishMax": [
+				{
+					"IsGood": "no",
+					"Type": "jail",
+					"Penalty": 24,
+				}
+			],
+			"SoundPathYes" : "Sounds/3_yes.mp3"
+		},
+		{
+			"Question": "Участвовал ли я в несанкционированных митингах (шествиях)?",
+			"PunishMin": [
+				{
+					"IsGood": "yes",
+					"Type": "many",
+					"Penalty": 10000,
+				}
+			],
+			"PunishMax": [
+				{
+					"IsGood": "no",
+					"Type": "many",
+					"Penalty": 300000,
+				}
+			],
+			"SoundPathYes" : "Sounds/4_yes.mp3",
+			"Akun" : "Content/akun/4.html"
+		},
+		{
+			"Question": "Давал ли я взятку (например 1000 руб. инспектору ГИБДД)? (290 УК РФ)",
+			"PunishMin": [
+				{
+					"IsGood": "yes",
+					"Type": "many",
+					"Penalty": 30000,
+				}
+			],
+			"PunishMax": [
+				{
+					"IsGood": "no",
+					"Type": "jail",
+					"Penalty": 96,
+				},
+				{
+					"IsGood": "no",
+					"Type": "many",
+					"Penalty": 30000,
+				}
+			],
+			"SoundPathFinish" : "Sounds/5_end.mp3"
+		},
+		{
+			"Question": "Носил, хранил ли я незаконно оружие? (20.8 КоАП РФ, 222(1) УК РФ)",
+			"PunishMin": [
+				{
+					"IsGood": "yes",
+					"Type": "many",
+					"Penalty": 500,
+				}
+			],
+			"PunishMax": [
+				{
+				    "IsGood": "no",
+					"Type": "jail",
+					"Penalty": 48,
+				},
+				{
+					"IsGood": "no",
+					"Type": "many",
+					"Penalty": 80000,
+				}
+			],
+			"SoundPathYes" : "Sounds/6_yes.mp3",
+			"Akun" : "Content/akun/6.html"
+		},
+		{
+			"Question": "Предоставлял (изготовлял) ли я фиктивные справки / больничные листы по месту работы? (327 УК РФ)",
+			"PunishMin": [
+				{
+					"IsGood": "yes",
+					"Type": "many",
+					"Penalty": 5000,
+				}
+			],
+			"PunishMax": [
+				{
+					"IsGood": "no",
+					"Type": "jail",
+					"Penalty": 24,
+				}
+			],
+			"SoundPathYes" : "Sounds/7_yes.mp3"
+		},
+		{
+			"Question": "Курил ли я в общественном месте (в подъезде, в лифте, на пляже, на детской площадке)?",
+			"PunishMin": [
+				{
+					"IsGood": "yes",
+					"Type": "many",
+					"Penalty": 500,
+				}
+			],
+			"PunishMax": [
+				{
+				    "IsGood": "no",
+					"Type": "many",
+					"Penalty": 3000,
+				}
+			],
+			"SoundPathFinish" : "Sounds/8_end.mp3",
+			"Akun" : "Content/akun/8.html"
+		},
+		{
+			"Question": "Участвовал ли я в РОСпиле государственных средств (например, когда работал в Рособоронсервисе, РКС)?",
+			"PunishMin": [
+				{
+					"IsGood": "yes",
+					"Type": "jail",
+					"Penalty": 2,
+				},
+				{
+				    "IsGood": "yes",
+					"Type": "many",
+					"Penalty": 5000,
+				}
+			],
+			"PunishMax": [
+				{
+					"IsGood": "no",
+					"Type": "jail",
+					"Penalty": 120,
+				},
+				{
+					"IsGood": "no",
+					"Type": "many",
+					"Penalty": 1000000,
+				}
+			],
+			"SoundPathYes" : "Sounds/9_yes.mp3",
+			"SoundPathNo" : "Sounds/9_no.mp3"
+		},
+		{
+			"Question": "Пел ли я в храме, церкви, оскорбляя религиозные чувства верующих? (213 УК РФ)",
+			"PunishMin": [
+				{
+					"IsGood": "yes",
+					"Type": "many",
+					"Penalty": 500000,
+				}
+			],
+			"PunishMax": [
+				{
+					"IsGood": "no",
+					"Type": "jail",
+					"Penalty": 84,
+				}
+			],
+			"SoundPathYes" : "Sounds/10_yes.mp3"
+		},
+		{
+			"Question": "Убил ли я кого (например старуху процентщицу или 5-6 коллег по работе, чтобы очистить планету от генетического мусора)? (105 УК РФ)",
+			"PunishMin": [
+				{
+					"IsGood": "yes",
+					"Type": "jail",
+					"Penalty": 72,
+				}
+			],
+			"PunishMax": [
+				{
+					"IsGood": "no",
+					"Type": "jail",
+					"Penalty": 240,
+				}
+			],
+			"SoundPathYes" : "Sounds/11_yes.wav",
+			"Akun" : "Content/akun/11.html"
+		},
+		{
+			"Question": "Клевещу ли я на соседа (т.е. распространяю ли о нем ложные сведения, порочащие его честь и достоинство, например, что он страдает заболеванием, представляющим опасность для окружающих, либо что он совершил преступления сексуального характера)?",
+			"PunishMin": [
+				{
+					"IsGood": "yes",
+					"Type": "many",
+					"Penalty": 5000,
+				}
+			],
+			"PunishMax": [
+				{
+					"IsGood": "no",
+					"Type": "many",
+					"Penalty": 5000000,
+				}
+			],
+			"SoundPathYes" : "Sounds/12_yes.mp3"
+		}
+	]
+}

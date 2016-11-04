@@ -1,0 +1,16 @@
+﻿<Page
+    x:Class="App2.BlankPage6"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:App2"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Grid>
+        <WebView Name="MyWebView" HorizontalAlignment="Left" Height="794" Margin="10,43,0,0" VerticalAlignment="Top" Width="471"/>
+        <Button Content="&lt; Back" HorizontalAlignment="Left" Margin="10,-10,0,799" VerticalAlignment="Bottom" Width="18" Click="Button_Click" Background="#FF161174"/>
+
+    </Grid>
+</Page>

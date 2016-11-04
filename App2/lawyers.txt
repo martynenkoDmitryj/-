@@ -1,0 +1,357 @@
+﻿
+  	{
+      "CityName": "77, 50. Москва и Московская область",
+      "Type": "selector",
+	  "Path": "Moskow",
+	  "Children": 
+		{
+		  "Name": "КРАВЧЕНКО Леонид Анатольевич",
+		  "Type": "selector",
+		  "Activity": "cutaway",
+		  "Phone": "+74953065411",
+		  "Email": "zakon-i-pravo@yandex.ru",
+		},
+		{
+		  "Name": "ДОРОНИН Георгий Геннадьевич",
+		  "Type": "selector",
+		  "Activity": "cutaway",
+		  "Phone": "+79168107250",
+		  "Email": "GeorgeD@yandex.ru",
+		},
+		{
+		  "Name": "СКЛЯРЕНКО Алексей Александрович",
+		  "Type": "selector",
+		  "Activity": "cutaway",
+		  "Phone": "+74956449011",
+		  "Email": "skbt@yandex.ru",
+		}
+	  
+    },
+	
+	
+	
+	{
+      "CityName": "78, 47. Санкт-Петербург и Ленинградская область",
+      "Type": "selector",
+	  "Path": "Piter",
+	  "Children": [
+		{
+		  "Name": "ДОРОХИН Виктор Саркисович",
+		  "Type": "selector",
+		  "Activity": "cutaway",
+		  "Phone": "+79818299625",
+		  "Email": "v.dorohin@yandex.ru",
+		},
+		{
+		  "Name": "ЧЕРЕВКОВА Людмила Ивановна",
+		  "Type": "selector",
+		  "Activity": "cutaway",
+		  "Phone": "+79219393193",
+		  "Email": "5341643@mail.ru",
+		{
+		  "Name": "ШАДРИН Виталий Владимирович",
+		  "Type": "selector",
+		  "Activity": "cutaway",
+		  "Phone": "+78125358162",
+		  "Email": "advecon@mail.ru",
+		}
+	  ]
+    },
+	
+	 
+	 
+	{
+      "CityName": "22. Алтайский край",
+      "Type": "selector",
+	  "Path": "Altay",
+	  "Children": [
+		{
+		  "Name": "ДОРОФЕЕВ Михаил Владимирович",
+		  "Type": "selector",
+		  "Activity": "cutaway",
+		  "Phone": "+79059879231",
+		  "Email": "dorofeev.urcomp@mail.ru",
+		}
+	  ]
+    },
+	 
+	 
+	 
+	 
+	{
+      "CityName": "35. Вологодская область",
+      "Type": "selector",
+	  "Path": "Vologda",
+	  "Children": [
+		{
+		  "Name": "ДОНЕЦ Сергей Петрович",
+		  "Type": "selector",
+		  "Activity": "cutaway",
+		  "Phone": "+79115040003",
+		  "Email": "Don52@yandex.ru",
+		}
+	  ]
+    },
+	 
+	 
+	{
+      "CityName": "38. Иркутская область",
+      "Type": "selector",
+	  "Path": "Ircutsk",
+	  "Children": [
+		{
+		  "Name": "ЩЕДРИНА Марина Юрьевна",
+		  "Type": "selector",
+		  "Activity": "cutaway",
+		  "Phone": "+79246323890",
+		  "Email": "manima10@mail.ru",
+		},
+		{
+		  "Name": "ЮНЕК Александр Виленович",
+		  "Type": "selector",
+		  "Activity": "cutaway",
+		  "Phone": "+73952680917",
+		  "Email": "yunek@irkadvokat.ru",
+		},
+		{
+		  "Name": "ЕФРЕМОВ Владимир Николаевич",
+		  "Type": "selector",
+		  "Activity": "cutaway",
+		  "Phone": "+79025160913",
+		  "Email": "efremov@irkadvokat.ru",
+		},
+		{
+		  "Name": "КОЧУБЕЙ Алексей Николаевич",
+		  "Type": "selector",
+		  "Activity": "cutaway",
+		  "Phone": "+79643509655",
+		  "Email": "kochubey@irkadvokat.ru",
+		},
+		{
+		  "Name": "ЧУРИНА Наталья Викторовна",
+		  "Type": "selector",
+		  "Activity": "cutaway",
+		  "Phone": "+79021704029",
+		  "Email": "churina@irkadvokat.ru",
+		},
+		{
+		  "Name": "БАХТИНА Елизавета Валерьевна",
+		  "Type": "selector",
+		  "Activity": "cutaway",
+		  "Phone": "+79021710302",
+		  "Email": "bahtina@irkadvokat.ru",
+		}
+	  ]
+    },
+	
+	
+	
+	{
+      "CityName": "43. Кировская область",
+      "Type": "selector",
+	  "Path": "Kirov",
+	  "Children": [
+		{
+		  "Name": "КОСОЛАПОВ Леонид Аркадьевич",
+		  "Type": "selector",
+		  "Activity": "cutaway",
+		  "Phone": "+79536756700",
+		  "Email": "Kosolapov777@mail.ru",
+		}
+	  ]
+    },
+	
+	
+	
+	{
+      "CityName": "23. Краснодарский край",
+      "Type": "selector",
+	  "Path": "Krasnodar",
+	  "Children": [
+		{
+		  "Name": "ШВЕЦ Анатолий Семенович",
+		  "Type": "selector",
+		  "Activity": "cutaway",
+		  "Phone": "+79882467152",
+		  "Email": "chvets@mail.ru",
+		}
+	  ]
+    },
+	
+	
+	
+	{
+      "CityName": "52. Нижегородская область",
+      "Type": "selector",
+	  "Path": "NNovgorod",
+	  "Children": [
+		{
+		  "Name": "ШУМИЛО Сергей Геннадьевич",
+		  "Type": "selector",
+		  "Activity": "cutaway",
+		  "Phone": "+79036027371",
+		  "Email": "Sergeishumilo@mail.ru",
+		}
+	  ]
+    },
+	
+	{
+      "CityName": "55. Омская область",
+      "Type": "selector",
+	  "Path": "Omsk",
+	  "Children": [
+		{
+		  "Name": "КОЛМАКОВ Александр Михайлович",
+		  "Type": "selector",
+		  "Activity": "cutaway",
+		  "Phone": "+79139742083",
+		  "Email": "alex_kl61@mail.ru",
+		}
+	  ]
+    },
+	
+	
+	
+	{
+      "CityName": "03. Республика Бурятия",
+      "Type": "selector",
+	  "Path": "Buryatiya",
+	  "Children": [
+		{
+		  "Name": "ЛЕВИТ Евгений Юрьевич",
+		  "Type": "selector",
+		  "Activity": "cutaway",
+		  "Phone": "+79025638857",
+		  "Email": "advokatlevit@gmail.com",
+		},
+		{
+		  "Name": "САЛТАНОВ Дмитрий Владимирович",
+		  "Type": "selector",
+		  "Activity": "cutaway",
+		  "Phone": "+79834354080",
+		  "Email": "saltanovdv@mail.ru",
+		}
+	  ]
+    },
+	
+	
+	
+	{
+      "CityName": "13. Республика Мордовия",
+      "Type": "selector",
+	  "Path": "Mordoviya",
+	  "Children": [
+		{
+		  "Name": "ПОПКОВ Александр Николаевич",
+		  "Type": "selector",
+		  "Activity": "cutaway",
+		  "Phone": "+79271763388",
+		  "Email": "popkov-aleks@ya.3u",
+		}
+	  ]
+    },
+
+	
+	
+	{
+      "CityName": "61. Ростовская область",
+      "Type": "selector",
+	  "Path": "Rostov",
+	  "Children": [
+		{
+		  "Name": "ТОХМАКОВ Михаил Анатольевич",
+		  "Type": "selector",
+		  "Activity": "cutaway",
+		  "Phone": "+78632261422",
+		  "Email": "advokatrostov@inbox.ru",
+		}
+	  ]
+    },
+	
+	
+	
+	{
+      "CityName": "65. Сахалинская область",
+      "Type": "selector",
+	  "Path": "Sahalin",
+	  "Children": [
+		{
+		  "Name": "КУЛЕШОВ Александр Иванович",
+		  "Type": "selector",
+		  "Activity": "cutaway",
+		  "Phone": "+79147568133",
+		  "Email": "k_aleks_07@mail.ru",
+		}
+	  ]
+    },
+	
+	
+	
+	{
+      "CityName": "26. Ставропольский край",
+      "Type": "selector",
+	  "Path": "Stavrapol",
+	  "Children": [
+		{
+		  "Name": "ИСАЛОВСКИЙ Станислав Русланович",
+		  "Type": "selector",
+		  "Activity": "cutaway",
+		  "Phone": "+79624414208",
+		  "Email": "isal_sr@front.ru",
+		}
+	  ]
+    },
+	
+	
+	
+	
+	{
+      "CityName": "71. Тульская область",
+      "Type": "selector",
+	  "Path": "Tula",
+	  "Children": [
+		{
+		  "Name": "ФИЛИППОВ Игорь Анатольевич",
+		  "Type": "selector",
+		  "Activity": "cutaway",
+		  "Phone": "+79101597909",
+		  "Email": "filippov.igor.a@yandex.ru",
+		}
+	  ]
+    },
+	
+	
+	
+	{
+      "CityName": "73. Ульяновская область",
+      "Type": "selector",
+	  "Path": "Ulyanovsk",
+	  "Children": [
+		{
+		  "Name": "КУЛИКОВ Александр Константинович",
+		  "Type": "selector",
+		  "Activity": "cutaway",
+		  "Phone": "+79510990633",
+		  "Email": "koulak@yandex.ru",
+		}
+	  ]
+    },
+	
+	
+	
+	{
+      "CityName": "27. Хабаровский край",
+      "Type": "selector",
+	  "Path": "Habarovsk",
+	  "Children": [
+		{
+		  "Name": "СМИРНОВ Сергей Геннадьевич",
+		  "Type": "selector",
+		  "Activity": "cutaway",
+		  "Phone": "+79098465415",
+		  "Email": "smirnov-adv@mail.ru",
+		}
+	  ]
+    }
+	
+	

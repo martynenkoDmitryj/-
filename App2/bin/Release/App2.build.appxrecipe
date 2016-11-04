@@ -1,0 +1,268 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>DIMA-PC</Machine>
+    <WindowsUser>Dima</WindowsUser>
+    <TargetPlatformIdentifier>WindowsPhoneApp</TargetPlatformIdentifier>
+    <SolutionConfiguration>Release|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>357af6b7-c7c1-44ec-9835-c0b4fcadfc5d</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\Dima\documents\visual studio 2013\Projects\App2\App2\obj\Release\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Dima\documents\visual studio 2013\Projects\App2\App2\bin\Release\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Dima\documents\visual studio 2013\Projects\App2\App2\bin\Release\App2.exe">
+      <PackagePath>App2.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dima\documents\visual studio 2013\Projects\App2\App2\01.html">
+      <PackagePath>01.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dima\documents\visual studio 2013\Projects\App2\App2\02.html">
+      <PackagePath>02.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dima\documents\visual studio 2013\Projects\App2\App2\03.html">
+      <PackagePath>03.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dima\documents\visual studio 2013\Projects\App2\App2\04.html">
+      <PackagePath>04.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dima\documents\visual studio 2013\Projects\App2\App2\05.html">
+      <PackagePath>05.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dima\documents\visual studio 2013\Projects\App2\App2\06.html">
+      <PackagePath>06.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dima\documents\visual studio 2013\Projects\App2\App2\07.html">
+      <PackagePath>07.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dima\documents\visual studio 2013\Projects\App2\App2\08.html">
+      <PackagePath>08.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dima\documents\visual studio 2013\Projects\App2\App2\09.html">
+      <PackagePath>09.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dima\documents\visual studio 2013\Projects\App2\App2\10.html">
+      <PackagePath>10.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dima\documents\visual studio 2013\Projects\App2\App2\11.html">
+      <PackagePath>11.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dima\documents\visual studio 2013\Projects\App2\App2\12.html">
+      <PackagePath>12.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dima\documents\visual studio 2013\Projects\App2\App2\13.html">
+      <PackagePath>13.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dima\documents\visual studio 2013\Projects\App2\App2\14.html">
+      <PackagePath>14.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dima\documents\visual studio 2013\Projects\App2\App2\15.html">
+      <PackagePath>15.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dima\documents\visual studio 2013\Projects\App2\App2\16.html">
+      <PackagePath>16.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dima\documents\visual studio 2013\Projects\App2\App2\17.html">
+      <PackagePath>17.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dima\documents\visual studio 2013\Projects\App2\App2\18.html">
+      <PackagePath>18.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dima\documents\visual studio 2013\Projects\App2\App2\19.html">
+      <PackagePath>19.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dima\documents\visual studio 2013\Projects\App2\App2\20.html">
+      <PackagePath>20.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dima\documents\visual studio 2013\Projects\App2\App2\21.html">
+      <PackagePath>21.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dima\documents\visual studio 2013\Projects\App2\App2\22.html">
+      <PackagePath>22.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dima\documents\visual studio 2013\Projects\App2\App2\23.html">
+      <PackagePath>23.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dima\documents\visual studio 2013\Projects\App2\App2\24.html">
+      <PackagePath>24.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dima\documents\visual studio 2013\Projects\App2\App2\25.html">
+      <PackagePath>25.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dima\documents\visual studio 2013\Projects\App2\App2\26.html">
+      <PackagePath>26.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dima\documents\visual studio 2013\Projects\App2\App2\27.html">
+      <PackagePath>27.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dima\documents\visual studio 2013\Projects\App2\App2\28.html">
+      <PackagePath>28.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dima\documents\visual studio 2013\Projects\App2\App2\29.html">
+      <PackagePath>29.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dima\documents\visual studio 2013\Projects\App2\App2\3.html">
+      <PackagePath>3.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dima\documents\visual studio 2013\Projects\App2\App2\30.html">
+      <PackagePath>30.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dima\documents\visual studio 2013\Projects\App2\App2\31.html">
+      <PackagePath>31.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dima\documents\visual studio 2013\Projects\App2\App2\32.html">
+      <PackagePath>32.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dima\documents\visual studio 2013\Projects\App2\App2\33.html">
+      <PackagePath>33.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dima\documents\visual studio 2013\Projects\App2\App2\34.html">
+      <PackagePath>34.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dima\documents\visual studio 2013\Projects\App2\App2\35.html">
+      <PackagePath>35.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dima\documents\visual studio 2013\Projects\App2\App2\36.html">
+      <PackagePath>36.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dima\documents\visual studio 2013\Projects\App2\App2\37.html">
+      <PackagePath>37.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dima\documents\visual studio 2013\Projects\App2\App2\38.html">
+      <PackagePath>38.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dima\documents\visual studio 2013\Projects\App2\App2\39.html">
+      <PackagePath>39.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dima\documents\visual studio 2013\Projects\App2\App2\40.html">
+      <PackagePath>40.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dima\documents\visual studio 2013\Projects\App2\App2\41.html">
+      <PackagePath>41.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dima\documents\visual studio 2013\Projects\App2\App2\42.html">
+      <PackagePath>42.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dima\documents\visual studio 2013\Projects\App2\App2\43.html">
+      <PackagePath>43.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dima\documents\visual studio 2013\Projects\App2\App2\44.html">
+      <PackagePath>44.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dima\documents\visual studio 2013\Projects\App2\App2\45.html">
+      <PackagePath>45.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dima\documents\visual studio 2013\Projects\App2\App2\g1.html">
+      <PackagePath>g1.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dima\documents\visual studio 2013\Projects\App2\App2\g11.html">
+      <PackagePath>g11.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dima\documents\visual studio 2013\Projects\App2\App2\g2.html">
+      <PackagePath>g2.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dima\documents\visual studio 2013\Projects\App2\App2\g4.html">
+      <PackagePath>g4.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dima\documents\visual studio 2013\Projects\App2\App2\g6.html">
+      <PackagePath>g6.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dima\documents\visual studio 2013\Projects\App2\App2\g8.html">
+      <PackagePath>g8.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dima\documents\visual studio 2013\Projects\App2\App2\1.txt">
+      <PackagePath>1.txt</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dima\documents\visual studio 2013\Projects\App2\App2\2.txt">
+      <PackagePath>2.txt</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dima\documents\visual studio 2013\Projects\App2\App2\3.txt">
+      <PackagePath>3.txt</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dima\documents\visual studio 2013\Projects\App2\App2\4.txt">
+      <PackagePath>4.txt</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dima\documents\visual studio 2013\Projects\App2\App2\5.txt">
+      <PackagePath>5.txt</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dima\documents\visual studio 2013\Projects\App2\App2\6.txt">
+      <PackagePath>6.txt</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dima\documents\visual studio 2013\Projects\App2\App2\7.txt">
+      <PackagePath>7.txt</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dima\documents\visual studio 2013\Projects\App2\App2\game.txt">
+      <PackagePath>game.txt</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dima\documents\visual studio 2013\Projects\App2\App2\lawyers.txt">
+      <PackagePath>lawyers.txt</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dima\documents\visual studio 2013\Projects\App2\App2\TextFile1.txt">
+      <PackagePath>TextFile1.txt</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dima\documents\visual studio 2013\Projects\App2\App2\Assets\Logo.scale-240.png">
+      <PackagePath>Assets\Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dima\documents\visual studio 2013\Projects\App2\App2\Assets\SmallLogo.scale-240.png">
+      <PackagePath>Assets\SmallLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dima\documents\visual studio 2013\Projects\App2\App2\Assets\SplashScreen.scale-240.png">
+      <PackagePath>Assets\SplashScreen.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dima\documents\visual studio 2013\Projects\App2\App2\Assets\Square71x71Logo.scale-240.png">
+      <PackagePath>Assets\Square71x71Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dima\documents\visual studio 2013\Projects\App2\App2\Assets\StoreLogo.scale-240.png">
+      <PackagePath>Assets\StoreLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dima\documents\visual studio 2013\Projects\App2\App2\Assets\WideLogo.scale-240.png">
+      <PackagePath>Assets\WideLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dima\documents\visual studio 2013\Projects\App2\App2\bin\Release\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dima\documents\visual studio 2013\Projects\App2\App2\bin\Release\BlankPage2.xbf">
+      <PackagePath>BlankPage2.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dima\documents\visual studio 2013\Projects\App2\App2\bin\Release\BlankPage3.xbf">
+      <PackagePath>BlankPage3.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dima\documents\visual studio 2013\Projects\App2\App2\bin\Release\BlankPage4.xbf">
+      <PackagePath>BlankPage4.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dima\documents\visual studio 2013\Projects\App2\App2\bin\Release\BlankPage5.xbf">
+      <PackagePath>BlankPage5.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dima\documents\visual studio 2013\Projects\App2\App2\bin\Release\BlankPage6.xbf">
+      <PackagePath>BlankPage6.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dima\documents\visual studio 2013\Projects\App2\App2\bin\Release\BlankPage7.xbf">
+      <PackagePath>BlankPage7.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dima\documents\visual studio 2013\Projects\App2\App2\bin\Release\BlankPage8.xbf">
+      <PackagePath>BlankPage8.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dima\documents\visual studio 2013\Projects\App2\App2\bin\Release\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dima\documents\visual studio 2013\Projects\App2\App2\bin\Release\App2.xr.xml">
+      <PackagePath>App2.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dima\documents\visual studio 2013\Projects\App2\App2\bin\Release\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
